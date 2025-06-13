@@ -1,5 +1,7 @@
 # Score Bazel modules registry
 
+TESTSETESSET
+
 ## Usage
 Add the following lines to your .bazelrc:
 ```
